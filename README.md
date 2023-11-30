@@ -40,6 +40,4 @@ _Home Screen_
 ![Screenshot 2](screenshots/cart.png)
 _Cart_
 
-![Screenshot 3](screenshots/orderDetailsForm.png)
-_Ordering Form_
 
