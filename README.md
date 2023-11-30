@@ -32,3 +32,14 @@ To run the project locally, follow these steps:
 
 3. In your browser: localhost:3000
 
+## Screenshots
+
+![Screenshot 1](screenshots/homeScreen.png)
+_Home Screen_
+
+![Screenshot 2](screenshots/cart.png)
+_Cart_
+
+![Screenshot 3](screenshots/orderDetailsForm.png)
+_Ordering Form_
+
